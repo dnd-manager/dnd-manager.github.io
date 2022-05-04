@@ -46201,7 +46201,7 @@ A.XJ.prototype={
 I(a,b){return new A.e_(new A.aor(),null)}}
 A.aor.prototype={
 $2(a,b){var s=null,r=A.aHz(a),q=b.b,p=t.p
-return A.ch(s,A.ha(A.a([A.ha(A.a([new A.bx(B.hp,A.Qc(A.axz("assets/images/favicon.svg",q/20),"home_logo"),s),A.Qc(A.bY("DND Manager",s,s,s,s,A.OM(B.k,B.h,q/40),s,s),"home_title")],p),B.a1,B.a3,B.Z),B.wY,A.ha(A.a([A.i6(A.aBn(q/85,"Already have an account? Sign in here!"),!0,q/35,new A.aoq(a),B.bc,s,q/3.8)],p),B.a1,B.il,B.Z)],p),B.a1,B.a3,B.Z),s,s,new A.dZ(B.y,s,s,s,r,s,B.aE),s,s,s,s,s)},
+return A.ch(s,A.ha(A.a([A.ha(A.a([new A.bx(B.hp,A.Qc(A.axz("assets/images/logo.svg",q/20),"home_logo"),s),A.Qc(A.bY("DND Manager",s,s,s,s,A.OM(B.k,B.h,q/40),s,s),"home_title")],p),B.a1,B.a3,B.Z),B.wY,A.ha(A.a([A.i6(A.aBn(q/85,"Already have an account? Sign in here!"),!0,q/35,new A.aoq(a),B.bc,s,q/3.8)],p),B.a1,B.il,B.Z)],p),B.a1,B.a3,B.Z),s,s,new A.dZ(B.y,s,s,s,r,s,B.aE),s,s,s,s,s)},
 $S:456}
 A.aoq.prototype={
 $0(){var s=t.X
@@ -46306,7 +46306,7 @@ I(a,b){var s=null
 return A.ch(s,new A.e_(new A.a5R(this),s),s,s,new A.dZ(A.a7(b).ry,s,s,s,A.aHz(b),s,B.aE),s,s,s,s,s)}}
 A.a5R.prototype={
 $2(a,b){var s=null,r=b.b,q=t.p
-return A.ha(A.a([A.ha(A.a([new A.bx(B.hp,A.axz("assets/images/favicon.svg",r/20),s),A.bY("DND Manager",s,s,s,s,A.OM(s,s,r/40),s,s)],q),B.a1,B.a3,B.Z),B.wY,A.ha(this.a.c,B.a1,B.il,B.Z)],q),B.a1,B.a3,B.Z)},
+return A.ha(A.a([A.ha(A.a([new A.bx(B.hp,A.axz("assets/images/logo.svg",r/20),s),A.bY("DND Manager",s,s,s,s,A.OM(s,s,r/40),s,s)],q),B.a1,B.a3,B.Z),B.wY,A.ha(this.a.c,B.a1,B.il,B.Z)],q),B.a1,B.a3,B.Z)},
 $S:98}
 A.Rg.prototype={
 I(a,b){var s=null
@@ -46408,7 +46408,7 @@ A.abu.prototype={
 $1(a){if(a)A.a2o("https://discord.com/invite/FatHApd")},
 $S:53}
 A.aby.prototype={
-$0(){A.aY_(A.axz("assets/images/favicon.svg",this.b.b/20),"Some legal shit","D&D Manager","0.0.1-dev",this.a)},
+$0(){A.aY_(A.axz("assets/images/logo.svg",this.b.b/20),"Some legal shit","D&D Manager","0.0.1-dev",this.a)},
 $S:1}
 A.UK.prototype={
 I(a,b){var s=this,r=null,q=A.a7(b),p=A.Qq(r,B.vi,r,B.oa,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,s.d,r,r,r,r,r,r,r,r,r,r,r,r,r),o=s.f,n=!o
